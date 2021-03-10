@@ -1,0 +1,11 @@
+{
+    "eq_dir": "C:/EverQuest",
+    "update_check": true,
+    "last_profile": "eqlog_Daltarious_P1999Green.txt",
+    "qt_scale_factor": 100,
+    "use_secondary": [
+        "levitate",
+        "malise",
+        "malisement"
+    ]
+}
